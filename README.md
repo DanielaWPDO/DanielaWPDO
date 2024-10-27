@@ -23,35 +23,46 @@
 </tr>
   
 <tr>
-  <td><a href="https://www.w3schools.com/python/pandas/default.asp" target="_blank" rel="noreferrer"> 
-    <img src="https://geo-python-site.readthedocs.io/en/latest/_images/pandas_logo.png" alt="pandas" width="90" height="60"/> 
+  <td>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="60" /> 
   </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="seaborn" width="110" height="80"/> 
+    <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="R" width="110" height="80"/> 
   </a>
   <a href= "https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
-    <img width="150" height="80" src="https://klint-consulting.com/wp-content/uploads/2023/04/Power-BI-Microsoft-logo.png" />	
+    <img width="150" height="80" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />	
   </a>
   </td>
   <td>
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg" alt="mariadb" width="120" height="90"/> 
+    <img src="https://cdn.simpleicons.org/mariadbfoundation/c17a5e" alt="mariadb" width="120" height="90"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/fr/6/62/MySQL.svg" alt="mysql" width="90" height="60"/> 
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" width="90" height="60"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/neo4j/4581C3" alt="neo4j" width="90" height="70" />      
+  </a>
+  <a href="https://jena.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Apache_Jena_logo.svg" alt="jena" width="90" height="60"/> 
   </a>
   </td>
   
   <td>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="tensorflow" width="90" height="60"/> 
+    <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="tensorflow" width="90" height="60"/> 
+  </a> 
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="pytorch" width="90" height="60"/> 
   </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="90" height="60"/> 
+    <img src="https://cdn.simpleicons.org/scikitlearn" alt="scikit_learn" width="90" height="60"/> 
   </a>
-  <a href="https://gradio.app/" target="_blank" rel="noreferrer"> 
-    <img src="https://vectorseek.com/wp-content/uploads/2023/12/Gradio-Logo-Vector.svg-.png" alt="gradio" width="70" height="40"/> 
+    <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="90" height="60"/> 
   </a>
+  
   </td>
 </tr>
 </table>
