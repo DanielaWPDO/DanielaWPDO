@@ -47,6 +47,9 @@
   <a href="https://jena.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Apache_Jena_logo.svg" alt="jena" width="90" height="60"/> 
   </a>
+  <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache-cassandra-icon.png" alt="cassandra" width="90" height="60"/> 
+  </a>
   </td>
   
   <td>
