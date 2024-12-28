@@ -41,7 +41,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="mysql" width="90" height="60"/> 
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.simpleicons.org/neo4j/4581C3" alt="neo4j" width="90" height="70" />      
   </a>
   <a href="https://jena.apache.org/" target="_blank" rel="noreferrer"> 
